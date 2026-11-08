@@ -1,0 +1,17 @@
+# Only the hand-written port is public. Game files, the disc image, image dumps, figure
+# dumps, generated code, builds, logs and captures never leave this machine.
+/*
+!/.gitignore
+!/CMakeLists.txt
+!/CMakePresets.json
+!/skylanders_sa_manifest.toml
+!/README.md
+!/LICENSE
+!/src/
+!/config/
+!/tools/
+# Generated from the game's code (baseline analyzer output) and scan reports.
+/config/baseline_init.cpp
+/config/find_funcs.txt
+__pycache__/
+!/.gitattributes
