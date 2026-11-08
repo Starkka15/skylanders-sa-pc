@@ -6,6 +6,10 @@ and Windows, made by static recompilation with the
 translated to C++ ahead of time and runs directly, with the SDK providing the Xbox 360
 kernel, GPU (Vulkan or Direct3D 12) and audio.
 
+> **About this port.** This port is not mine. It is a basic starting
+> point to build on (features, fixes, polish), not a finished or maintained product. If
+> you feel up to it, feel free to continue the work; forks and pull requests are welcome.
+
 **This repository contains none of the game.** You need your own copy of Skylanders:
 Spyro's Adventure for the Xbox 360 (title 415608AB), and figures: a real Wii/PS3 Portal
 of Power, dumps of your own toys, or both.
