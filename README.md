@@ -6,7 +6,7 @@ and Windows, made by static recompilation with the
 translated to C++ ahead of time and runs directly, with the SDK providing the Xbox 360
 kernel, GPU (Vulkan or Direct3D 12) and audio.
 
-> **About this port.** This port is not mine. It is a basic starting
+> **About this port.** This port isn't mine to gatekeep. It's a basic starting
 > point to build on (features, fixes, polish), not a finished or maintained product. If
 > you feel up to it, feel free to continue the work; forks and pull requests are welcome.
 
